@@ -2,12 +2,6 @@
 
 A beginner-friendly console banking application demonstrating core and advanced Java OOP concepts.
 
-## Requirements
-- JDK 17 or later
-- VS Code with Java Extension Pack (recommended)
-
-## Run in VS Code terminal (Windows PowerShell)
-
 From the `MiniBank_Project` folder:
 
 ```powershell
@@ -37,9 +31,3 @@ java -cp out minibank.MiniBank
 - Serialization, NIO Files and try-with-resources
 - ConcurrentHashMap-based repository
 - Switch expressions and lambda expressions
-
-## Data files
-The application creates `data/accounts.dat` and `data/transactions.txt` when saving.
-
-## Notes
-This is an educational console project, not a real banking system. It does not connect to real bank services.
