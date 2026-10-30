@@ -1,7 +1,5 @@
 # MiniBank - Java OOP Semester Project
 
-A beginner-friendly console banking application demonstrating core and advanced Java OOP concepts.
-
 From the `MiniBank_Project` folder:
 
 ```powershell
